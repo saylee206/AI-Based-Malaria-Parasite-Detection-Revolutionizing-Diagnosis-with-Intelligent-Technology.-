@@ -1,0 +1,2 @@
+# AI-Based-Malaria-Parasite-Detection-Revolutionizing-Diagnosis-with-Intelligent-Technology.-
+Use of neural network models which are  CNN, MobileNetV2, and ResNet50 for image classification. Integration of TensorFlow/Keras framework to facilitate model training and evaluation. Analysis of performance metrics such as accuracy rate, precision, recall, F1-score, and ROC curve to assess model efficacy.
